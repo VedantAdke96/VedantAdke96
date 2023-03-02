@@ -1,5 +1,5 @@
 - Hi, My Name Is Vedant I'm a 14 y/o Indian Programmer.
-- I’m interested in Programming, Blockchain, Software Developement, etc.
+- I’m interested in Software Developement, Web development, Blockchain, etc.
 - Contact me on Instagram: @vrtech_official
 
 <!---
