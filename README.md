@@ -1,7 +1,6 @@
-[![Masterhead]("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cc5e3ff-37e5-4b9c-abf4-92304fafa4c9/deekqx1-20d6363f-185e-4f8d-a748-f5b3f3b8fdde.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjYzVlM2ZmLTM3ZTUtNGI5Yy1hYmY0LTkyMzA0ZmFmYTRjOVwvZGVla3F4MS0yMGQ2MzYzZi0xODVlLTRmOGQtYTc0OC1mNWIzZjNiOGZkZGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bQwR0OGahVNiMtiHhvn95SFiuAZKxapsWSr_AbMK_Oc")]
 <h1 align="center">Hi 👋, I'm Vedant</h1>
 <h3 align="center">A young software developer from India</h3>
-<img align="right" alt="Coding" width=400 src="https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif">
+<img align="right" alt="Coding" width=400 src="[https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif](https://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantadke96&label=Profile%20views&color=0e75b6&style=flat" alt="vedantadke96" /> </p>
 
