@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedant</h1>
 <h3 align="center">A young software developer from India</h3>
-<img align="right" alt="Coding" width=400 src="[https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif](https://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif)">
+<img align="right" alt="Coding" width=400 src="http://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantadke96&label=Profile%20views&color=0e75b6&style=flat" alt="vedantadke96" /> </p>
 
