@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/vedantadke" target="blank"><img src="https://img.shields.io/twitter/follow/vedantadke?logo=twitter&style=for-the-badge" alt="vedantadke" /></a> </p>
 
-- 🌱 I’m currently learning **React native, blockchain**
+- 🌱 I’m currently learning **AI, blockchain**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Web Development, Python**
 
 - 📫 How to reach me **adkevedant@gmail.com**
 
